@@ -4,7 +4,7 @@ Academic project, Feb 2025. A PFC-compliant household EV charger with a wide out
 
 ## Result
 - **<8% THD across the full load range**
-- Output: 24V to 120V at up to 15A
+- Output: 24V to 120V at up to 15A (1.8 kW peak)
 
 ## Design
 - Topology: PID-controlled **interleaved boost** PFC stage
